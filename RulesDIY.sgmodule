@@ -3,4 +3,6 @@
 #!system=mac
 
 [Rule]
-URL-REGEX,safebrowsing.googleapis.com,DIRECT
+DOMAIN,safebrowsing.googleapis.com,DIRECT
+DOMAIN,safebrowsing.urlsec.qq.com,DIRECT
+
