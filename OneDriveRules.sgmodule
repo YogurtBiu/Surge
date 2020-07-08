@@ -1,0 +1,6 @@
+#!name=OneDriveRules
+#!desc=Cover some hosting rules by myself.
+
+[Rule]
+DOMAIN-SUFFIX,onedrive.live.com,DIRECT
+DOMAIN-SUFFIX,onedrive.com,DIRECT
