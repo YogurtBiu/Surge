@@ -5,4 +5,5 @@
 [Rule]
 DOMAIN,safebrowsing.googleapis.com,DIRECT
 DOMAIN,safebrowsing.urlsec.qq.com,DIRECT
+DOMAIN,rsc.org,DIRECT
 
