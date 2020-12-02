@@ -5,5 +5,5 @@
 [Rule]
 DOMAIN,safebrowsing.googleapis.com,DIRECT
 DOMAIN,safebrowsing.urlsec.qq.com,DIRECT
-DOMAIN-SUFFIX,rsc.org,PROXY
+DOMAIN-SUFFIX,rsc.org,🇺🇸 美国专线 1
 
