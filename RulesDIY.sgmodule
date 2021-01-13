@@ -6,4 +6,5 @@
 DOMAIN,safebrowsing.googleapis.com,DIRECT
 DOMAIN,safebrowsing.urlsec.qq.com,DIRECT
 DOMAIN-SUFFIX,rsc.org,🇺🇸 美国专线 1
+DOMAIN,apps.apple.com,🇭🇰 香港专线 1
 
