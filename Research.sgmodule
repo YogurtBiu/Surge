@@ -2,10 +2,4 @@
 #!desc=Cover some hosting rules by myself.
 
 [Rule]
-DOMAIN-SUFFIX,webofknowledge.com,DIRECT #Web of Science
-DOMAIN-SUFFIX,nature.com,DIRECT  #Nature
-DOMAIN-SUFFIX,science.org,DIRECT  #Science
-DOMAIN-SUFFIX,wiley.com,DIRECT  #Wiley
-DOMAIN-SUFFIX,acs.org,DIRECT #ACS
-DOMAIN-SUFFIX,sciencedirect.com,DIRECT #Elsevier
-DOMAIN-SUFFIX,sciencedirect.com,DIRECT #RSC
+DOMAIN-SUFFIX,webofknowledge.com,DIRECT
