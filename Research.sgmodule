@@ -1,5 +1,5 @@
-#!name=Remove ADs
-#!desc=狙殺常見廣告（需手動更新外部資源） v20220119.01
+#!name=Research
+#!desc=Cover some hosting rules by myself.
 
 [Rule]
 DOMAIN-SUFFIX,webofknowledge.com,DIRECT #Web of Science
