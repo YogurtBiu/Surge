@@ -4,6 +4,7 @@
 [Rule]
 #!Web of Science
 DOMAIN-SUFFIX,webofknowledge.com,DIRECT
+DOMAIN-SUFFIX,webofscience.com,DIRECT
 #!Nature
 DOMAIN-SUFFIX,nature.com,DIRECT
 #!Science
