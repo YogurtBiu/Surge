@@ -1,6 +1,8 @@
 #!name=Research
 #!desc=Cover some hosting rules by myself.
 
+[General]
+
 [Rule]
 DOMAIN-SUFFIX,webofknowledge.com,DIRECT #Web of Science
 DOMAIN-SUFFIX,nature.com,DIRECT  #Nature
