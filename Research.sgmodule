@@ -3,6 +3,8 @@
 
 [Rule]
 #!Web of Science
+#!SCIE (Science Citation Index Expanded)
+#!SSCI (Social Sciences Citation Index)
 DOMAIN-SUFFIX,webofknowledge.com,DIRECT
 DOMAIN-SUFFIX,webofscience.com,DIRECT
 
@@ -56,6 +58,7 @@ DOMAIN-SUFFIX,aps.org,DIRECT
 DOMAIN-SUFFIX,emerald.com,DIRECT
 DOMAIN-SUFFIX,emeraldinsight.com.cn,DIRECT
 
+#!ESI (Essential Science Indicators)
 #!JCR (Journal Citation Reports)
 #!InCites (InCites: Benchmarking)
 DOMAIN-SUFFIX,clarivate.com,DIRECT
@@ -73,19 +76,24 @@ DOMAIN-SUFFIX,tandfonline.com,DIRECT
 #!IEL (IEEE/IET Elcetronic Library)
 DOMAIN-SUFFIX,ieee.org,DIRECT
 
-#!
-DOMAIN-SUFFIX,rsc.org,DIRECT
-#!
-DOMAIN-SUFFIX,rsc.org,DIRECT
-#!
-DOMAIN-SUFFIX,rsc.org,DIRECT
-#!
-DOMAIN-SUFFIX,rsc.org,DIRECT
-#!
-DOMAIN-SUFFIX,rsc.org,DIRECT
-#!
-DOMAIN-SUFFIX,rsc.org,DIRECT
-#!
-DOMAIN-SUFFIX,rsc.org,DIRECT
-#!
-DOMAIN-SUFFIX,rsc.org,DIRECT
+#!Springer Online Journals(SLCC)
+DOMAIN-SUFFIX,springer.com,DIRECT
+
+#!EV (Engineering Village Compendex)
+DOMAIN-SUFFIX,engineeringvillage.com,DIRECT
+
+#!IOP (Institute of Physics)
+DOMAIN-SUFFIX,iop.org,DIRECT
+DOMAIN-SUFFIX,calis.edu.cn,DIRECT
+
+#!PNAS (Proceedings of the National Academy of Sciences of the United States of America)
+DOMAIN-SUFFIX,pnas.org,DIRECT
+
+#!PQDT (Proquest Dissertation Theses学位论文全文库)
+DOMAIN-SUFFIX,pqdtcn.com,DIRECT
+
+#!DDS (Dissertation Discovery System学位论文发现系统)
+DOMAIN-SUFFIX,oadds.cn,DIRECT
+
+#!Frontiers 《前沿》系列期刊
+DOMAIN-SUFFIX,hep.com.cn,DIRECT
