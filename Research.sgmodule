@@ -5,15 +5,87 @@
 #!Web of Science
 DOMAIN-SUFFIX,webofknowledge.com,DIRECT
 DOMAIN-SUFFIX,webofscience.com,DIRECT
+
 #!Nature
 DOMAIN-SUFFIX,nature.com,DIRECT
+
 #!Science
 DOMAIN-SUFFIX,science.org,DIRECT
+
 #!Wiley
 DOMAIN-SUFFIX,wiley.com,DIRECT
+
 #!ACS
 DOMAIN-SUFFIX,acs.org,DIRECT
+
 #!Elsevier
+#!Cell Press(CP)
 DOMAIN-SUFFIX,sciencedirect.com,DIRECT
+
 #!RSC
+DOMAIN-SUFFIX,rsc.org,DIRECT
+
+#!Scifinder Academic
+DOMAIN-SUFFIX,cas.org,DIRECT
+
+#!AIP (American Institute of Physics)
+DOMAIN-SUFFIX,aip.org,DIRECT
+
+#!ACM Digital Library(ACM)
+DOMAIN-SUFFIX,acm.org,DIRECT
+
+#!Lexis Advance
+DOMAIN-SUFFIX,lexis.com,DIRECT
+
+#!BP (BIOSIS Previews)  
+#!INSPEC(INSPEC)  
+#!CPCI (Conference Proceedings Citation Indexes)
+DOMAIN-SUFFIX,isiknowledge.com,DIRECT
+
+#!Cambridge Journals Online
+DOMAIN-SUFFIX,cambridge.org,DIRECT
+
+#!ABI (ABI/INFORM Complete)
+#!PRL (ProQuest Research Library)
+DOMAIN-SUFFIX,proquest.com,DIRECT
+
+#!APS (The American Physical Society)
+DOMAIN-SUFFIX,aps.org,DIRECT
+
+#!Emerald
+DOMAIN-SUFFIX,emerald.com,DIRECT
+DOMAIN-SUFFIX,emeraldinsight.com.cn,DIRECT
+
+#!JCR (Journal Citation Reports)
+#!InCites (InCites: Benchmarking)
+DOMAIN-SUFFIX,clarivate.com,DIRECT
+
+#!JSTOR (Journal Storage)
+DOMAIN-SUFFIX,jstor.org,DIRECT
+
+#!SAGE (Sage Premier)
+DOMAIN-SUFFIX,sagepub.com,DIRECT
+DOMAIN-SUFFIX,cnpereading.com,DIRECT
+
+#!Taylor&Francis
+DOMAIN-SUFFIX,tandfonline.com,DIRECT
+
+#!IEL (IEEE/IET Elcetronic Library)
+DOMAIN-SUFFIX,ieee.org,DIRECT
+
+#!
+DOMAIN-SUFFIX,rsc.org,DIRECT
+#!
+DOMAIN-SUFFIX,rsc.org,DIRECT
+#!
+DOMAIN-SUFFIX,rsc.org,DIRECT
+#!
+DOMAIN-SUFFIX,rsc.org,DIRECT
+#!
+DOMAIN-SUFFIX,rsc.org,DIRECT
+#!
+DOMAIN-SUFFIX,rsc.org,DIRECT
+#!
+DOMAIN-SUFFIX,rsc.org,DIRECT
+#!
 DOMAIN-SUFFIX,rsc.org,DIRECT
