@@ -4,6 +4,7 @@
 [Rule]
 #!港台图书平台
 #!Google Play图书
+DOMAIN-SUFFIX,play.google.com,🇨🇳 台湾节点
 DOMAIN-SUFFIX,playgateway-pa.googleapis.com,🇨🇳 台湾节点
 DOMAIN-SUFFIX,playbooks-pa.googleapis.com,🇨🇳 台湾节点
 #!读墨Readmoo
