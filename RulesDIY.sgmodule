@@ -5,3 +5,4 @@
 [Rule]
 DOMAIN,safebrowsing.googleapis.com,DIRECT
 DOMAIN,safebrowsing.urlsec.qq.com,DIRECT
+DOMAIN,testflight.apple.com,DIRECT // Testflight
