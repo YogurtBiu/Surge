@@ -1,0 +1,10 @@
+#!name=RulesDIY
+#!desc=Cover some hosting rules by myself.
+
+[Rule]
+#!中文成人文学网
+DOMAIN-SUFFIX,xbookcn.net,🇭🇰 香港节点
+
+#!E-Hentai
+DOMAIN-SUFFIX,ehgt.org,🇨🇳 台湾节点
+DOMAIN-SUFFIX,e-hentai.org,🇨🇳 台湾节点
