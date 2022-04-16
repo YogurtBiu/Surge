@@ -1,6 +1,7 @@
 #!name=BetterToRead
 #!desc=Cover some hosting rules by myself.
 
+[Rule]
 #!港台图书平台
 #!Google Play图书
 DOMAIN-SUFFIX,playgateway-pa.googleapis.com,🇨🇳 台湾节点
