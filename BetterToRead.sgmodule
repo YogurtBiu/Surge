@@ -1,0 +1,11 @@
+#!name=BetterToRead
+#!desc=Cover some hosting rules by myself.
+
+#!港台图书平台
+#!Google Play图书
+DOMAIN-SUFFIX,playgateway-pa.googleapis.com,🇨🇳 台湾节点
+DOMAIN-SUFFIX,playbooks-pa.googleapis.com,🇨🇳 台湾节点
+#!读墨Readmoo
+DOMAIN-SUFFIX,readmoo.com,🇨🇳 台湾节点
+#!BOOKWALKER
+DOMAIN-SUFFIX,bookwalker.com.tw,🇨🇳 台湾节点
