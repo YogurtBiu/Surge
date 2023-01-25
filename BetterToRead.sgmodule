@@ -4,10 +4,10 @@
 [Rule]
 #!港台图书平台
 #!Google Play图书
-DOMAIN-SUFFIX,play.google.com,🇨🇳 台湾节点
-DOMAIN-SUFFIX,playgateway-pa.googleapis.com,🇨🇳 台湾节点
-DOMAIN-SUFFIX,playbooks-pa.googleapis.com,🇨🇳 台湾节点
+DOMAIN-SUFFIX,play.google.com,香港-ByWave-01
+DOMAIN-SUFFIX,playgateway-pa.googleapis.com,香港-ByWave-01
+DOMAIN-SUFFIX,playbooks-pa.googleapis.com,香港-ByWave-01
 #!读墨Readmoo
-DOMAIN-SUFFIX,readmoo.com,🇨🇳 台湾节点
+DOMAIN-SUFFIX,readmoo.com,香港-ByWave-01
 #!BOOKWALKER
-DOMAIN-SUFFIX,bookwalker.com.tw,🇨🇳 台湾节点
+DOMAIN-SUFFIX,bookwalker.com.tw,台湾-HINET-01
