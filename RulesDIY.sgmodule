@@ -8,3 +8,6 @@ DOMAIN,safebrowsing.urlsec.qq.com,DIRECT
 
 #!Testflight
 DOMAIN,testflight.apple.com,DIRECT
+
+#!OpenAI
+DOMAIN-SUFFIX,openai.com,日本-HALO-01
