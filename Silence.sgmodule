@@ -3,8 +3,8 @@
 
 [Rule]
 #!中文成人文学网
-DOMAIN-SUFFIX,xbookcn.net,🇭🇰 香港节点
+DOMAIN-SUFFIX,xbookcn.net,香港-ByWave-01
 
 #!E-Hentai
-DOMAIN-SUFFIX,ehgt.org,🇨🇳 台湾节点
-DOMAIN-SUFFIX,e-hentai.org,🇨🇳 台湾节点
+DOMAIN-SUFFIX,ehgt.org,台湾-HINET-02
+DOMAIN-SUFFIX,e-hentai.org,台湾-HINET-02
