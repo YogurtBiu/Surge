@@ -1,0 +1,8 @@
+#!name=AWS-直连
+#!desc=VPS直连
+
+
+[Rule]
+
+#!新加坡
+IP-CIDR,18.142.249.133/16,DIRECT
