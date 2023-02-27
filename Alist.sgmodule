@@ -1,0 +1,11 @@
+#!name=Alist-直连
+#!desc=Alist直连
+
+
+[Rule]
+
+#!新加坡
+IP-CIDR,8.219.80.144/16,DIRECT
+
+#!俄勒冈州
+IP-CIDR,35.162.131.99/16,DIRECT
