@@ -1,0 +1,7 @@
+#!name=OpenAI
+#!desc=Cover some hosting rules by myself.
+
+[Rule]
+
+#!OpenAI
+DOMAIN-SUFFIX,openai.com,日本-HALO-01
